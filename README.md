@@ -1,3 +1,6 @@
+This project was inspired by a tutorial from the YouTube channel *Absent Data*, and extended with additional exploratory analysis, gender segmentation, business recommendations, and visual enhancements.
+
+
 # Customer Segmentation with KMeans Clustering
 
 This project uses KMeans clustering to segment mall customers based on their age, annual income, and spending score. The objective is to help the marketing team identify distinct customer groups and create targeted strategies to engage each segment effectively.
